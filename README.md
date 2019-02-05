@@ -1,4 +1,6 @@
-# Alchemy_Backtracking 1.1 Input
+# Alchemy_Backtracking 
+This was taken from my course. It was a week long project. My code is all in the findMaxTemp.cpp file
+1.1 Input
 The input begins with a list of up to 64 pairs of chemicals and the heat they produce. This consists of multiple lines, each of the form
 
 chemical1 chemical2 heat
